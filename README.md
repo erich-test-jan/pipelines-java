@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/E0755150627/pipeline-test/_apis/build/status/erich-test-jan.pipelines-java?branchName=master)](https://dev.azure.com/E0755150627/pipeline-test/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
